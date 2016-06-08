@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:21.340428
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:01
 #+TITLE: 佛說雨寶陀羅尼經
 #+PROPERTY: CBETA_ID T20n1163
 #+PROPERTY: ID KR6j0385
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1163
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0385_T_000-0667c>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0385_T_001-0667c> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1163[Nos.1162,1164,1165]¶
-
- 佛說雨寶陀羅尼經¶
+No. 1163 [Nos. 1162, 1164, 1165]¶
+佛說雨寶陀羅尼經¶
 ¶
 唐三藏沙門大廣智不空奉　詔譯¶
 
@@ -126,9 +125,9 @@ No.1163[Nos.1162,1164,1165]¶
 　寂慧一切智
 　法王不生滅¶
 　已到勝彼岸
-　稽首佛勇猛
+　稽首佛勇猛」
 #+END_VERSE
-」¶
+¶
 
 爾時具壽阿難陀。聞佛說此雨寶陀羅尼經。¶
 踊躍歡喜白佛言。世尊今此法要當何名。此¶
